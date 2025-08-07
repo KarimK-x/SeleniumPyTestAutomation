@@ -22,7 +22,6 @@ SeleniumPythonLoginAutomation/
 │   └── tests/
 │       ├── test_change_password.py  # Change password tests
 │       └── test_login.py           # Login tests
-└── ... (other config and cache files)
 ```
 
 ## How to Run
