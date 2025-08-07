@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+*.pyc
+selenium-ui-tests/__pycache__/
+selenium-ui-tests/tests/__pycache__/
