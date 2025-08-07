@@ -1,7 +1,7 @@
 # SeleniumPyTestAutomation
 
 ## Overview
-This project demonstrates comprehensive software testing practices using Python, Selenium WebDriver, and Pytest. It is designed to showcase my understanding of automated UI testing, test case design, and best practices in software quality assurance. The project is structured for clarity, maintainability, and scalability, making it suitable for real-world software testing scenarios.
+This project demonstrates comprehensive software testing practices using Python, Selenium WebDriver, and Pytest. It is designed to showcase my understanding of automated UI testing, test case design, and best practices in real-world Agile QA workflow. The project is structured for clarity, maintainability, and scalability, making it suitable for real-world software testing scenarios.
 
 ## Features
 - **Automated UI Testing**: Uses Selenium WebDriver to automate browser interactions for login and password change functionalities.
